@@ -1,0 +1,13 @@
+body {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-family: Arial, sans-serif;
+  background: #fafafa;
+}
+
+.date-box {
+  text-align: center;
+  font-size: 22px;
+}
